@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Hariharan120606 from Chennai,India
+- 👀 I’m interested in Gaming, Poetry and Coding
+- 🌱 I’m currently undergoing a Bachelor`s degree in Computer science
+- 💞️ I’m looking to collaborate on topics related to CSC
+- 📫 Reach me out in Linkedin(Hariharan Ganesh) and Github 
+- 😄 Pronouns: He/Him
+- 
