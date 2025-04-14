@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on topics related to CSC
 - 📫 Reach me out in Linkedin(Hariharan Ganesh) and Github 
 - 😄 Pronouns: He/Him
-- 
