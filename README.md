@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - Connect with me: linkedin.com/in/hariharan-ganesh-001theone/
 - [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-- [![Python dev](https://github.com/internetarchive/openlibrary/actions/workflows/python_tests.yml/badge.svg)
+- ![Python dev](https://github.com/internetarchive/openlibrary/actions/workflows/python_tests.yml/badge.svg)
